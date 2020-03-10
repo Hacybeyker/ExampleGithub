@@ -1,1 +1,1 @@
-Este es un documento de texto, para aprender Git y github desde platzi.
+Este es un documento de texto, para aprender Git desde platzi!
