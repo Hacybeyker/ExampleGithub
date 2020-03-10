@@ -1,0 +1,35 @@
+commit 15bf64433805f8162df296f7bd4aefe9e609d42b
+Author: Carlos Osorio <hacybeyker@gmailcom>
+Date:   Mon Mar 9 22:37:22 2020 -0500
+
+    reemplazo de una version por otra de la historia
+
+commit 72f1d7494b303d8cf109762986508c10e05fdb76
+Author: Carlos Osorio <hacybeyker@gmailcom>
+Date:   Mon Mar 9 22:33:01 2020 -0500
+
+    cambio de maestria
+
+commit e9820cafa0d36be6815248bcfbfa6efc22bcbd05
+Author: Carlos Osorio <hacybeyker@gmailcom>
+Date:   Mon Mar 9 22:32:38 2020 -0500
+
+    cambio de vida
+
+commit 894757d1eeff31a1d3df42b37e6736233190f730
+Author: Carlos Osorio <hacybeyker@gmailcom>
+Date:   Mon Mar 9 22:32:03 2020 -0500
+
+    Arranco mi proyecto real con html y css
+
+commit 1bceba9ec9124b862a9df6208d46adec8f33d665
+Author: Carlos Osorio Perez <hacybeyker@gmailcom>
+Date:   Mon Mar 9 19:45:23 2020 -0500
+
+    Cambios a v1
+
+commit 6e74feef3ed26b275a6404fc52e8774c8e729ea2
+Author: Carlos Osorio Perez <hacybeyker@gmailcom>
+Date:   Mon Mar 9 19:44:44 2020 -0500
+
+    version 1
