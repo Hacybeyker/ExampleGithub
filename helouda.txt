@@ -1,1 +1,3 @@
 Este es un documento de texto, para aprender Git desde platzi!
+
+Hoy hablaremos de su vida.
