@@ -2,8 +2,7 @@ Este es un documento de texto, para aprender Git y github desde platzi.
 
 Mañana nos enfocaremos en su vida laboral
 
-
-helouda, probando!!
-
+probando un ejemplo de push
+helouda, probando!
 
 Soy otra persona!!
